@@ -1,0 +1,3 @@
+[submodule "submodules/Commonibrary"]
+	path = submodules/Commonibrary
+	url = git@gitee.com:gdutxiaoxu/Commonibrary.git
